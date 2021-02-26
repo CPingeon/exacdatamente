@@ -3,3 +3,4 @@ jupyterlab
 matplotlib
 psycopg2
 sqlalchemy
+jinja2
